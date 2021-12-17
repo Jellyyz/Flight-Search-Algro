@@ -1,0 +1,13 @@
+airports[0] has a centrality of 37.2417
+airports[1] has a centrality of 0
+airports[2] has a centrality of 13.5619
+airports[3] has a centrality of 94.6061
+airports[4] has a centrality of 123.063
+airports[5] has a centrality of 101.564
+airports[6] has a centrality of 65.2444
+airports[7] has a centrality of 2.25
+airports[8] has a centrality of 0
+airports[9] has a centrality of 0
+airports[10] has a centrality of 0
+airports[11] has a centrality of 0
+airports[12] has a centrality of 0

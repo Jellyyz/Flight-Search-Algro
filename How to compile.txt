@@ -1,0 +1,10 @@
+
+To run the program: 
+
+Input 'make' into terminal.
+Input ./flight into terminal. 
+
+To run tests
+
+Input 'make test' into terminal. 
+Input ./test' into terminal. 
